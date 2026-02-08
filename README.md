@@ -162,20 +162,3 @@ source("enronproject.R")
 
 All analyses and visualizations will be generated automatically.
 
-Results & Insights
-
-The analysis highlights:
-
-a small group of highly central and influential employees
-
-the presence of distinct communication communities
-
-employees acting as bridges between different groups
-
-isolated nodes with no communication links
-
-increasing fragmentation of the network over time
-
-noticeable changes in email content during the crisis period
-
-Conclusion
